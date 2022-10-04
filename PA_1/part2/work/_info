@@ -1,0 +1,275 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/qwert123/Desktop/computer_org/PA_1/part1
+vALU
+Z0 !s110 1648651415
+!i10b 1
+!s100 eTI6iV;MMXZ[@?>Tl`8?n2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`H8Ulb=RoGI19;DVoO[dI2
+Z2 dC:/Users/qwert123/Desktop/computer_org/PA_1/part2
+w1648356513
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/ALU.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/ALU.v
+!i122 179
+L0 1 20
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1648651415.000000
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/ALU.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@l@u
+vCompDivider
+R0
+!i10b 1
+!s100 P0Q5UOgjMjR@h:?;zXfCE2
+R1
+I@>36D6lC>I`KU=Ngg9jV10
+R2
+w1648366978
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/CompDivider.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/CompDivider.v
+!i122 177
+L0 1 19
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/CompDivider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/CompDivider.v|
+!i113 1
+R6
+R7
+n@comp@divider
+vControl
+R0
+!i10b 1
+!s100 B=MFFHQVVlEPKYfYS8H`80
+R1
+I@MzR<[kN4o[>Nih9oY>Kg2
+R2
+w1648365651
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Control.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/Control.v
+!i122 180
+L0 1 35
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Control.v|
+!i113 1
+R6
+R7
+n@control
+vDivisor
+R0
+!i10b 1
+!s100 [8dTTez>6EXbQVc=bfbPT2
+R1
+Ia]?;hT1`b@O[gTef<cHfW3
+R2
+w1648355778
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Divisor.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/Divisor.v
+!i122 178
+L0 1 16
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Divisor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Divisor.v|
+!i113 1
+R6
+R7
+n@divisor
+vProduct
+!s110 1648366733
+!i10b 1
+!s100 FH;VT<mjzE;PaQ^><OfK`0
+R1
+I0kjQAOBJ`]ce>_eng4mYJ1
+R2
+w1648366564
+8C:\Users\qwert123\Desktop\computer_org\PA_1\part2\Remainder.v
+FC:\Users\qwert123\Desktop\computer_org\PA_1\part2\Remainder.v
+!i122 22
+Z8 L0 1 22
+R3
+R4
+r1
+!s85 0
+31
+!s108 1648366733.000000
+!s107 C:\Users\qwert123\Desktop\computer_org\PA_1\part2\Remainder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\qwert123\Desktop\computer_org\PA_1\part2\Remainder.v|
+!i113 1
+R6
+R7
+n@product
+vRemainder
+R0
+!i10b 1
+!s100 kQ_jI]8jS<RgSdJA]k8MB2
+R1
+I9@l_?iQMCZRzAKUOz<DBm1
+R2
+w1648367547
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Remainder.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/Remainder.v
+!i122 181
+R8
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Remainder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/Remainder.v|
+!i113 1
+R6
+R7
+n@remainder
+vtb_ALU
+R0
+!i10b 1
+!s100 1AT9[GJ=gDDWgcfFD@ojb0
+R1
+I3<R2h3Ke2B2ak`P6nPD<N2
+R2
+w1648637297
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_ALU.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_ALU.v
+!i122 182
+L0 1 33
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_ALU.v|
+!i113 1
+R6
+R7
+ntb_@a@l@u
+vtb_CompDivider
+R0
+!i10b 1
+!s100 Th8E`G5lEOln0Z3NiHi[D3
+R1
+IiG3Jc<I0dQecKhk=3emkM1
+R2
+w1648275061
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_CompDivider.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_CompDivider.v
+!i122 176
+L0 40 91
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_CompDivider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_CompDivider.v|
+!i113 1
+R6
+R7
+ntb_@comp@divider
+vtb_Control
+R0
+!i10b 1
+!s100 nJ:@mM;99ChIQ:E>aDbG83
+R1
+I0ESZ2LfnHj`G4BnbGZQE11
+R2
+w1648650441
+8C:\Users\qwert123\Desktop\computer_org\PA_1\part2\tb_Control.v
+FC:\Users\qwert123\Desktop\computer_org\PA_1\part2\tb_Control.v
+!i122 183
+L0 1 39
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\qwert123\Desktop\computer_org\PA_1\part2\tb_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\qwert123\Desktop\computer_org\PA_1\part2\tb_Control.v|
+!i113 1
+R6
+R7
+ntb_@control
+vtb_Divisor
+Z9 !s110 1648651416
+!i10b 1
+!s100 R>Na6Z<z:[CQRcYC1BZef1
+R1
+ILTVKIgW9m>dKJ][LVGg343
+R2
+w1648635972
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_Divisor.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_Divisor.v
+!i122 184
+L0 1 31
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_Divisor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_Divisor.v|
+!i113 1
+R6
+R7
+ntb_@divisor
+vtb_Remainder
+R9
+!i10b 1
+!s100 0>X7PH3[CnG8eC>U49JX[1
+R1
+ICC;]IPozN]JC[APR[8KL33
+R2
+w1648651409
+8C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_Remainder.v
+FC:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_Remainder.v
+!i122 185
+L0 1 70
+R3
+R4
+r1
+!s85 0
+31
+!s108 1648651416.000000
+!s107 C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_Remainder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/qwert123/Desktop/computer_org/PA_1/part2/tb_Remainder.v|
+!i113 1
+R6
+R7
+ntb_@remainder
